@@ -1,5 +1,5 @@
 import streamlit as st
-import cv2
+#import cv2
 import numpy as np
 
 # Charger le modèle cascade pour la détection de visages
